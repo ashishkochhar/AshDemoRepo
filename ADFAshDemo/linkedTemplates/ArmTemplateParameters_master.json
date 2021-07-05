@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFAshDemo"
 		},
+		"EmployeeLinkedService_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
